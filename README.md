@@ -2,6 +2,9 @@
 
 Welcome to the Hospital Patient Records Management system! This program helps hospital administrators manage patient records, query data, and obtain summary information. The data is stored in a structure array, and the array size is provided using command line arguments.
 
+[part02.webm](https://github.com/Lahiru-LK/Hospital-Patient-Records-Management/assets/104630433/14644dd2-fb56-4fc6-a8ff-73aefff462f8)
+
+
 ## 📋 Features
 
 - **Populate Patient Records**: Automatically generate random patient records for testing.
